@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Frederico 👋
 
-<!--
-**Gr1X/Gr1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student and backend developer based in Indonesia.
+I build web applications with PHP and Laravel.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📂 Featured Projects
+
+- **[Waravent-Event](https://github.com/Gr1X/Waravent-Event)**: Event management platform (PHP)
+- **[To-do-list](https://github.com/Gr1X/To-do-list)**: Task manager app (PHP)
+
+## 📫 Contact
+
+- LinkedIn: [your-link]
+- Email: your@email.com
