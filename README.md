@@ -1,8 +1,5 @@
 # Hi, I'm Frederico 👋
 
-Informatics student and backend developer based in Indonesia.
-I build web applications with PHP and Laravel.
-
 ## 🛠 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
